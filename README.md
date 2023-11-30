@@ -70,7 +70,7 @@ Al iniciar la aplicación, se presenta la `VistaPrincipal`, que es la interfaz p
 ![Alt text](<Capturas/Captura${} (10).png>)
 3. **Realizar Búsqueda**: Haz clic en "Buscar" para filtrar los contactos según los criterios ingresados.
    - Automáticamente se limpian el cuadro de búsqueda empleado.
-   ![Alt text](<Capturas/Captura${} (11).png>)
+![Alt text](<Capturas/Captura${} (11).png>)
    - Si no coincide con ningún contacto devuelve un mensaje informativo.
 ![Alt text](<Capturas/Captura${} (16).png>)
 
@@ -103,10 +103,10 @@ Al iniciar la aplicación, se presenta la `VistaPrincipal`, que es la interfaz p
 ### Exportar Contactos
 1. **Iniciar Exportación**: En la `VistaPrincipal`, haz clic en el botón "Exportar".
    - Aparece un panel que solicita confirmación. Tanto si optamos por confirmar como por denegar, aparecerá un mensaje de confirmación.
-   ![Alt text](<Capturas/Captura${} (24).png>)
-   ![Alt text](<Capturas/Captura${} (25).png>)
-   ![Alt text](<Capturas/Captura${} (26).png>)
-   ![Alt text](<Capturas/Captura${} (28).png>)
+![Alt text](<Capturas/Captura${} (24).png>)
+![Alt text](<Capturas/Captura${} (25).png>)
+![Alt text](<Capturas/Captura${} (26).png>)
+![Alt text](<Capturas/Captura${} (28).png>)
 2. **Confirmar Acción**: Confirma la acción para exportar la lista de contactos actualizada a un archivo CSV en la carpeta del proyecto.
 
 ### Cerrar la Aplicación
