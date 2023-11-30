@@ -2,7 +2,7 @@
 
 ## Descripción General
 Este proyecto es una aplicación de escritorio, que simula en su apariencia y en aspectos de su comportamiento, una app móvil. Sirve para la gestión de contactos. Permite al usuario añadir, buscar, actualizar, eliminar y exportar contactos, así como gestionar contactos favoritos.
-![Alt text](Capturas/Captura$%7B%7D.png)
+![Alt text](<Capturas/Captura$%7B%7D.png>)
 
 ## Estructura del Proyecto
 El proyecto se organiza en los siguientes paquetes y clases principales:
@@ -46,7 +46,7 @@ Como nota preliminar, indicamos que en la navegación por la aplicación, para a
 
 ### Inicio de la Aplicación
 Al iniciar la aplicación, se presenta la `VistaPrincipal`, que es la interfaz principal donde se visualizan los contactos.
-![Alt text](Capturas/Captura$%7B%7D.png)
+![Alt text](<Capturas/Captura$%7B%7D.png>)
 ### Añadir un Nuevo Contacto
 1. **Abrir la Ventana de Añadir**: Haz clic en el botón "Añadir" en la `VistaPrincipal`.
 ![Alt text](<Capturas/Captura${} (3).png>)
